@@ -1,8 +1,7 @@
 class PrimaConfig {
   constructor() {}
   execute() {
-    alert("server prima");
+    alert("server primas strat at port 2000");
   }
 }
-
 export { PrimaConfig };
