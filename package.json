@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "tsup": "^8.0.1",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
+    "@types/node": "^20.11.10",
     "tsx": "^4.7.0",
-    "typecript": "^0.0.1-security"
+    "typescript": "^5.3.3"
   }
 }
