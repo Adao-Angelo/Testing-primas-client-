@@ -4,7 +4,7 @@
   "description": "This is a repository created to test the prima client or to create the basic api with Prisma, it is simply a repository for testing but you can clone it and basically have a base to build your projects with Prisma.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch ./src/server.ts"
   },
   "keywords": [],
   "author": "",
