@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typecript": "^0.0.1-security"
   }
 }
