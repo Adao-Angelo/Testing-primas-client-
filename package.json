@@ -4,7 +4,12 @@
   "description": "This is a repository created to test the prima client or to create the basic api with Prisma, it is simply a repository for testing but you can clone it and basically have a base to build your projects with Prisma.",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch ./src/server.ts"
+    "biuld": "tsup ./src",
+    "dev": "tsx watch ./src/server.ts",
+    "start": "node ./dist/server.js"
+  },
+  "engines": {
+    "node": "20.11.0"
   },
   "keywords": [],
   "author": "",

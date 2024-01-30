@@ -1,6 +1,5 @@
 import { PrismaClient } from "@prisma/client";
 import festify from "fastify";
-import { pid } from "process";
 import { z } from "zod";
 const prisma = new PrismaClient();
 const app = festify();
