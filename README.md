@@ -5,9 +5,12 @@ This is a repository created to test the prima client or to create the basic api
 # how to begin ?
 
 ## start the project
+
     npm run dev
 
-open: http://localhost:5000/
+host: http://localhost
+
+port: 5000
 
 # knowledge acquired:
 
